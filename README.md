@@ -1,7 +1,7 @@
 # Asp.Net Core with React.js
 
 
-__Instructions to create this project__
+## Instructions to create this project
 1-  open visual studio 2022
 
 2-  select "create a new project" option
