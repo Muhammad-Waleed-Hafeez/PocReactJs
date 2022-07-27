@@ -3,9 +3,13 @@
 
 **Instructions to create this project**
 1-  open visual studio 2022
+
 2-  select "create a new project" option
+
 3-  search "react.js" template and select "ASP.NET Core with React.js"
+
 4-  enter project name like "MyReactProject" and chose location
+
 5-  on next window chose framework as ".NET 6.0" and Authentication type as "Individual Accounts"
 6-  after creating the project install a nuget package named "Microsoft.VisualStudio.Web.CodeGeneration.Design" with version 6.0.6
 7-  right click on your project and select "Add" then select "New Scaffolded Item"
