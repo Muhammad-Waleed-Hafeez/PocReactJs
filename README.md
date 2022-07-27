@@ -1,4 +1,4 @@
-# PocReactJs
+# Asp.Net Core with React.js
 
 
 **Instructions to create this project**
